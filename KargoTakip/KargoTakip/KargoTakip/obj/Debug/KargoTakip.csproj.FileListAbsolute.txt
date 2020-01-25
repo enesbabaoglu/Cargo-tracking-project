@@ -1,0 +1,16 @@
+c:\users\eness\documents\visual studio 2017\Projects\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe.config
+c:\users\eness\documents\visual studio 2017\Projects\KargoTakip\KargoTakip\bin\Debug\KargoTakip.exe
+c:\users\eness\documents\visual studio 2017\Projects\KargoTakip\KargoTakip\bin\Debug\KargoTakip.pdb
+c:\users\eness\documents\visual studio 2017\Projects\KargoTakip\KargoTakip\bin\Debug\MySql.Data.dll
+c:\users\eness\documents\visual studio 2017\Projects\KargoTakip\KargoTakip\bin\Debug\MySql.Data.xml
+c:\users\eness\documents\visual studio 2017\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csprojResolveAssemblyReference.cache
+c:\users\eness\documents\visual studio 2017\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Properties.Resources.resources
+c:\users\eness\documents\visual studio 2017\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.csproj.GenerateResource.Cache
+c:\users\eness\documents\visual studio 2017\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.exe
+c:\users\eness\documents\visual studio 2017\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.pdb
+c:\users\eness\documents\visual studio 2017\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.FrmAnaMenu.resources
+c:\users\eness\documents\visual studio 2017\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Form2.resources
+c:\users\eness\documents\visual studio 2017\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Form3.resources
+c:\users\eness\documents\visual studio 2017\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Form4.resources
+c:\users\eness\documents\visual studio 2017\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Form5.resources
+C:\Users\eness\documents\visual studio 2017\Projects\KargoTakip\KargoTakip\obj\Debug\KargoTakip.Form6.resources
